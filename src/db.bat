@@ -58,7 +58,7 @@ set database=""
 
 rem Auswahl
 echo   [1] Standardverbindung
-echo   [2] Eigene Verbindung zu PowerBuddy Datenbank mit Standartwerten
+echo   [2] Eigene Verbindung zu Reader Datenbank mit Standartwerten
 echo   [3] Eigene Verbindung zu eigener Datenbank mit eigenen Measurements
 echo.
 echo.
