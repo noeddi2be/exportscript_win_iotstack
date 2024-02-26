@@ -6,7 +6,7 @@ Mit dem Exportscript werden Queries für den Datenexport ausgeführt. Die einzel
 Anschliessend werden die einzelnen CSV Dateien in den Ordner Export (muss vorhanden sein) verschoben, sowie ebenfalls
 auch zu einem einzelnen CSV und einem einzelnen Excel-File zusammengefügt.
 
-Zum Ausführen die Verknüpfung "Exportscript" ausführen.
+Zum Ausführen die Verknüpfung "db.bat" ausführen.
 Zugangsdaten für den IOTServer müssen angegeben werden.
 
 
